@@ -1,0 +1,13 @@
+# Default
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#
+.DS_Store
+*.Rproj
+
+# Output data
+*.jpg
+*.csv
